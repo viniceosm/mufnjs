@@ -1,0 +1,2 @@
+# mufnjs
+my functions js
